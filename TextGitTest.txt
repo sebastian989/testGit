@@ -1,2 +1,2 @@
 First git test
-Second line git Test…To revert
+Second line git Test…
